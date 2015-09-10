@@ -1,3 +1,5 @@
 Criando arquivo.txt
 
 Gerando a versão 0.1.0
+
+Gerando a versão 0.1.1
